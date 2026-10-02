@@ -1,0 +1,8 @@
+{
+  "name": "tradingview-webhook-vercel",
+  "version": "1.0.0",
+  "description": "TradingView Webhook Receiver on Vercel",
+  "scripts": {
+    "start": "node api/webhook.js"
+  }
+}
