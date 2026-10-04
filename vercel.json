@@ -6,6 +6,10 @@
       "dest": "/api/webhook.js"
     },
     {
+      "src": "/api/signal",
+      "dest": "/api/signal.js"
+    },
+    {
       "src": "/(.*)",
       "dest": "/public/$1"
     }
